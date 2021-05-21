@@ -1,9 +1,8 @@
 
 Pour lancer le jeu il faut extraire le fichier Build Unity.zip dans un dossier
-et exécuter le fichier Snake.exe, ou alors ouvrir Unity en ajoutant le dossier Snake 
-comme projet.
+et exécuter le fichier Snake.exe.
 -----------------------------------------------------------------------------
-Pour accéder aux scripts il faut aller dans le répertoire Snake/Assets/Scripts.
+Pour accéder aux scripts il faut aller dans le fichier scripts.zip, il y en a trois.
 -----------------------------------------------------------------------------
 
 Pour contrôler les directions prises par le serpent dans le jeu il est possible 
